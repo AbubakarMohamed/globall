@@ -10,7 +10,7 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      '/images': path.resolve(__dirname, 'public/images')
+      '@': path.resolve(__dirname, 'src')
     }
   }
 })

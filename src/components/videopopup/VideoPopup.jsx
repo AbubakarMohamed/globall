@@ -1,4 +1,3 @@
-import videoPopupBg from '/images/video.jpg';
 import VideoModal from './YouTubeVideoModal';
 
 export default function VideoPopup() {
@@ -6,7 +5,7 @@ export default function VideoPopup() {
     <section
       className="video_section"
       style={{
-        backgroundImage: `url(${videoPopupBg})`,
+        backgroundImage: `url(/images/video.jpg)`,
       }}
     >
       <div className="container">
