@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Single Point of Coordination",
+    "text": "We act as a central coordination layer between employers, partners, and candidates, reducing fragmentation and misalignment.",
+    "icon": "ei ei-icon_group"
+  },
+  {
+    "id": 2,
+    "title": "Predictability Over Promises",
+    "text": "We focus on realistic timelines and achievable outcomes rather than aggressive claims.",
+    "icon": "ei ei-icon_cog"
+  },
+  {
+    "id": 3,
+    "title": "Regional Market Understanding",
+    "text": "We work across multiple Gulf markets and understand that each operates differently in terms of requirements, expectations, and deployment realities.",
+    "icon": "ei ei-icon_piechart"
+  },
+  {
+    "id": 4,
+    "title": "Controlled Scale",
+    "text": "We grow engagements deliberately to ensure consistency and quality across deployments.",
+    "icon": "ei ei-icon_easel"
+  },
+  {
+    "id": 5,
+    "title": "Long-Term Continuity",
+    "text": "We structure relationships to support repeat deployments and stable workforce pipelines rather than one-off transactions.",
+    "icon": "ei ei-icon_heart_alt"
+  }
+]

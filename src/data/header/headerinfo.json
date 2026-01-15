@@ -1,0 +1,14 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "icon": "fa-solid fa-phone",
+      "text": "+254 702 281 909"
+    },
+    {
+      "id": 2,
+      "icon": "fa-regular fa-envelope",
+      "text": "info@globalbridge.co.ke"
+    }
+  ]
+}

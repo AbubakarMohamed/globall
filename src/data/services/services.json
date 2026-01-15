@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "title": "Workforce Demand Alignment",
+    "shortDesc": "We engage employers and partners to clearly define workforce needs, job categories, skill requirements, volumes, and deployment expectations before any sourcing begins.",
+    "contentParts": [
+      "Understanding your workforce needs is the foundation of successful deployment. We work closely with employers to map out exact requirements, ensuring clarity on role definitions, skill levels, and team composition.",
+      "Our demand assessment process is comprehensive, covering job categories, experience levels, technical competencies, and deployment timelines. We ensure realistic expectations are set from the outset.",
+      "By aligning demand with available talent pipelines, we create the foundation for successful, long-term workforce engagements that deliver measurable value."
+    ],
+    "icon": "ei ei-icon_easel",
+    "thumb": "/images/service_1.jpg",
+    "btnText": "Read More",
+    "singleThumb": "/images/service_1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Talent Sourcing & Screening",
+    "shortDesc": "We support the identification and screening of candidates aligned to employer requirements, focusing on suitability, readiness, and consistency.",
+    "contentParts": [
+      "Our sourcing team identifies qualified candidates from extensive networks across the region, ensuring cultural and professional fit with employer expectations.",
+      "Every candidate undergoes rigorous screening processes, including skill assessments, background verification, and readiness evaluation. We prioritize quality over quantity.",
+      "We maintain detailed candidate profiles and continuously update our talent pools to ensure we can respond quickly to emerging employment opportunities."
+    ],
+    "icon": "ei ei-icon_piechart",
+    "thumb": "/images/service_2.jpg",
+    "btnText": "Read More",
+    "singleThumb": "/images/service_2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Global Mobility Solutions",
+    "shortDesc": "We coordinate workforce mobility processes including documentation alignment, deployment timelines, and stakeholder engagement.",
+    "contentParts": [
+      "International workforce mobility involves complex regulations and coordination. We manage every aspect of the mobility process, from documentation to stakeholder alignment.",
+      "Our team ensures seamless transitions with clear communication, timeline management, and coordinated execution across all parties—employers, candidates, and partners.",
+      "We focus on minimizing delays and reducing complications, ensuring candidates arrive prepared and employers receive the workforce they expect."
+    ],
+    "icon": "ei ei-icon_datareport",
+    "thumb": "/images/service_3.jpg",
+    "btnText": "Read More",
+    "singleThumb": "/images/service_3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "International Placement Support",
+    "shortDesc": "We support overseas employment processes in collaboration with employers and deployment partners to ensure clarity and smooth execution.",
+    "contentParts": [
+      "Successful overseas placements require careful coordination and clear communication at every stage. We provide comprehensive support throughout the entire placement journey.",
+      "From initial job matching through to on-site orientation, we maintain engagement with both candidates and employers to ensure smooth transitions and positive outcomes.",
+      "Our commitment to follow-through ensures candidates are set up for success and employers achieve their workforce objectives."
+    ],
+    "icon": "ei ei-icon_lightbulb",
+    "thumb": "/images/service_4.jpg",
+    "btnText": "Read More",
+    "singleThumb": "/images/service_4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Process & Documentation Coordination",
+    "shortDesc": "We assist in managing documentation flows, approvals, and timelines to minimise delays, errors, and miscommunication.",
+    "contentParts": [
+      "Documentation and approvals can become bottlenecks in workforce deployment. We manage these processes meticulously, ensuring nothing is overlooked.",
+      "Our systems track every document, deadline, and approval step, providing transparency and preventing delays that could derail deployments.",
+      "We serve as the central coordination point, translating requirements between employers, candidates, and partners to maintain clarity throughout."
+    ],
+    "icon": "ei ei-icon_house",
+    "thumb": "/images/service_5.jpg",
+    "btnText": "Read More",
+    "singleThumb": "/images/service_5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Regional Market Expertise",
+    "shortDesc": "We work across multiple Gulf markets and understand that each operates differently in terms of requirements, expectations, and deployment realities.",
+    "contentParts": [
+      "Each Gulf market has distinct regulatory requirements, cultural expectations, and operational realities. Our deep market knowledge ensures culturally appropriate and legally compliant placements.",
+      "We maintain relationships with key stakeholders in each market, giving us insights into employment trends, regulatory changes, and employer preferences.",
+      "This regional expertise allows us to guide both candidates and employers through market-specific requirements with confidence and competence."
+    ],
+    "icon": "ei ei-icon_easel",
+    "thumb": "/images/service_6.jpg",
+    "btnText": "Read More",
+    "singleThumb": "/images/service_6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Candidate Engagement",
+    "shortDesc": "We maintain continuous engagement with candidates throughout their deployment journey, ensuring support and clear communication at every stage.",
+    "contentParts": [
+      "Candidate experience is central to our approach. We maintain regular communication and support throughout the entire journey from initial interest to successful deployment.",
+      "Our dedicated support team provides guidance on documentation, visa processes, relocation logistics, and on-site integration, ensuring candidates feel supported and prepared.",
+      "We believe in building lasting relationships with candidates, creating positive experiences that reflect well on employers and contribute to successful, long-term placements."
+    ],
+    "icon": "ei ei-icon_user",
+    "thumb": "/images/service_7.jpg",
+    "btnText": "Read More",
+    "singleThumb": "/images/service_7.jpg"
+  }
+]

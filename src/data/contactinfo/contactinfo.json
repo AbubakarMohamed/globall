@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "ei ei-icon_pin_alt",
+    "heading": "Office Location",
+    "info": "Mombasa, Kenya"
+  },
+  {
+    "id": 2,
+    "icon": "ei ei-icon_phone",
+    "heading": "Phone",
+    "info": "+254 702 281 909"
+  },
+  {
+    "id": 3,
+    "icon": "ei ei-icon_envelope",
+    "heading": "Email",
+    "info": "info@globalbridge.co.ke"
+  },
+  {
+    "id": 4,
+    "icon": "ei ei-icon_clock_alt",
+    "heading": "Office Hours",
+    "info": "Monday to Friday 9:00am to 5:00pm"
+  }
+]
