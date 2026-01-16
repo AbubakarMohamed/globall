@@ -2,7 +2,10 @@ import HeroSection from "../components/layout/HeroSection"
 import AboutOne from "../components/about/AboutOne"
 import Contact from "../components/contact/Contact"
 import ServicesOne from "../components/services/ServicesOne"
-import WhyChooseUs from "../components/whychooseus/WhyChooseUs"
+
+import Markets from "../components/markets/Markets"
+import Principles from "../components/principles/Principles"
+import Candidates from "../components/candidates/Candidates"
 
 export default function HomeOne() {
   return (
@@ -10,7 +13,9 @@ export default function HomeOne() {
       <HeroSection />
       <AboutOne />
       <ServicesOne />
-      <WhyChooseUs />
+      <Markets />
+      <Principles />
+      <Candidates />
       <Contact />
     </div>
   )

@@ -9,9 +9,8 @@
       "By aligning demand with available talent pipelines, we create the foundation for successful, long-term workforce engagements that deliver measurable value."
     ],
     "icon": "ei ei-icon_easel",
-    "thumb": "/images/service_1.jpg",
-    "btnText": "Read More",
-    "singleThumb": "/images/service_1.jpg"
+    "thumb": "/images/service_1.png",
+    "singleThumb": "/images/service_1.png"
   },
   {
     "id": 2,
@@ -23,9 +22,8 @@
       "We maintain detailed candidate profiles and continuously update our talent pools to ensure we can respond quickly to emerging employment opportunities."
     ],
     "icon": "ei ei-icon_piechart",
-    "thumb": "/images/service_2.jpg",
-    "btnText": "Read More",
-    "singleThumb": "/images/service_2.jpg"
+    "thumb": "/images/service_2.png",
+    "singleThumb": "/images/service_2.png"
   },
   {
     "id": 3,
@@ -37,9 +35,8 @@
       "We focus on minimizing delays and reducing complications, ensuring candidates arrive prepared and employers receive the workforce they expect."
     ],
     "icon": "ei ei-icon_datareport",
-    "thumb": "/images/service_3.jpg",
-    "btnText": "Read More",
-    "singleThumb": "/images/service_3.jpg"
+    "thumb": "/images/service_3.png",
+    "singleThumb": "/images/service_3.png"
   },
   {
     "id": 4,
@@ -51,9 +48,8 @@
       "Our commitment to follow-through ensures candidates are set up for success and employers achieve their workforce objectives."
     ],
     "icon": "ei ei-icon_lightbulb",
-    "thumb": "/images/service_4.jpg",
-    "btnText": "Read More",
-    "singleThumb": "/images/service_4.jpg"
+    "thumb": "/images/service_4.png",
+    "singleThumb": "/images/service_4.png"
   },
   {
     "id": 5,
@@ -65,36 +61,7 @@
       "We serve as the central coordination point, translating requirements between employers, candidates, and partners to maintain clarity throughout."
     ],
     "icon": "ei ei-icon_house",
-    "thumb": "/images/service_5.jpg",
-    "btnText": "Read More",
-    "singleThumb": "/images/service_5.jpg"
-  },
-  {
-    "id": 6,
-    "title": "Regional Market Expertise",
-    "shortDesc": "We work across multiple Gulf markets and understand that each operates differently in terms of requirements, expectations, and deployment realities.",
-    "contentParts": [
-      "Each Gulf market has distinct regulatory requirements, cultural expectations, and operational realities. Our deep market knowledge ensures culturally appropriate and legally compliant placements.",
-      "We maintain relationships with key stakeholders in each market, giving us insights into employment trends, regulatory changes, and employer preferences.",
-      "This regional expertise allows us to guide both candidates and employers through market-specific requirements with confidence and competence."
-    ],
-    "icon": "ei ei-icon_easel",
-    "thumb": "/images/service_6.jpg",
-    "btnText": "Read More",
-    "singleThumb": "/images/service_6.jpg"
-  },
-  {
-    "id": 7,
-    "title": "Candidate Engagement",
-    "shortDesc": "We maintain continuous engagement with candidates throughout their deployment journey, ensuring support and clear communication at every stage.",
-    "contentParts": [
-      "Candidate experience is central to our approach. We maintain regular communication and support throughout the entire journey from initial interest to successful deployment.",
-      "Our dedicated support team provides guidance on documentation, visa processes, relocation logistics, and on-site integration, ensuring candidates feel supported and prepared.",
-      "We believe in building lasting relationships with candidates, creating positive experiences that reflect well on employers and contribute to successful, long-term placements."
-    ],
-    "icon": "ei ei-icon_user",
-    "thumb": "/images/service_7.jpg",
-    "btnText": "Read More",
-    "singleThumb": "/images/service_7.jpg"
+    "thumb": "/images/service_5.png",
+    "singleThumb": "/images/service_5.png"
   }
 ]

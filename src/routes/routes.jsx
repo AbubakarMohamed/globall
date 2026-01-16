@@ -31,7 +31,7 @@ const routes = [
         index: true,
         element: <HomeOne />,
         meta: {
-          title: 'Home - Elizah',
+          title: 'Home - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },
@@ -39,7 +39,7 @@ const routes = [
         path: 'home-three',
         element: <HomeThree />,
         meta: {
-          title: 'Home V3 - Elizah',
+          title: 'Home V3 - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },
@@ -47,7 +47,7 @@ const routes = [
         path: 'about',
         element: <AboutPage />,
         meta: {
-          title: 'About - Elizah',
+          title: 'About - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },
@@ -55,7 +55,7 @@ const routes = [
         path: 'service',
         element: <ServicePage />,
         meta: {
-          title: 'Service - Elizah',
+          title: 'Service - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },
@@ -63,7 +63,7 @@ const routes = [
         path: 'service/:id',
         element: <SingleServicePage />,
         meta: {
-          title: 'Single Service - Elizah',
+          title: 'Single Service - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },
@@ -71,7 +71,7 @@ const routes = [
         path: 'blog',
         element: <BlogPage />,
         meta: {
-          title: 'Blog - Elizah',
+          title: 'Blog - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },
@@ -79,7 +79,7 @@ const routes = [
         path: 'blog-two',
         element: <BlogPageTwo />,
         meta: {
-          title: 'Blog V2 - Elizah',
+          title: 'Blog V2 - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },
@@ -87,7 +87,7 @@ const routes = [
         path: 'blog/:id',
         element: <SingleBlogPage />,
         meta: {
-          title: 'Single Blog - Elizah',
+          title: 'Single Blog - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },
@@ -95,7 +95,7 @@ const routes = [
         path: 'gallery',
         element: <GalleryPage />,
         meta: {
-          title: 'Gallery - Elizah',
+          title: 'Gallery - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },
@@ -103,7 +103,7 @@ const routes = [
         path: 'gallery/:id',
         element: <SingleGalleryPage />,
         meta: {
-          title: 'Single Gallery - Elizah',
+          title: 'Single Gallery - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },
@@ -111,7 +111,7 @@ const routes = [
         path: 'team',
         element: <TeamPage />,
         meta: {
-          title: 'Team - Elizah',
+          title: 'Team - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },
@@ -119,7 +119,7 @@ const routes = [
         path: 'contact',
         element: <ContactPage />,
         meta: {
-          title: 'Contact - Elizah',
+          title: 'Contact - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },
@@ -127,7 +127,7 @@ const routes = [
         path: '*',
         element: <NotFound />,
         meta: {
-          title: '404 - Page Not Found | Elizah',
+          title: '404 - Page Not Found | Global Bridge',
           description: 'The page you are looking for does not exist.',
         },
       },
@@ -141,7 +141,7 @@ const routes = [
         path: 'home-two',
         element: <HomeTwo />,
         meta: {
-          title: 'Home V2 - Elizah',
+          title: 'Home V2 - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },
@@ -155,7 +155,7 @@ const routes = [
         path: 'landingpage-one',
         element: <HomeOnePage />,
         meta: {
-          title: 'Home OnePage - Elizah',
+          title: 'Home OnePage - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },
@@ -169,7 +169,7 @@ const routes = [
         path: 'landingpage-two',
         element: <HomeOnePageTwo />,
         meta: {
-          title: 'Home OnePage V2 - Elizah',
+          title: 'Home OnePage V2 - Global Bridge',
           description: 'Business And Corporate React JS Responsive Website.',
         },
       },

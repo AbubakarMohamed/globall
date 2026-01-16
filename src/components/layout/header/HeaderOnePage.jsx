@@ -2,7 +2,6 @@ import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 
 import navData from '../../../data/navbar/navbaronepage.json';
-import logoImg from '/images/logo.png';
 
 export default function HeaderOnePage() {
   const [mobileOpen, setMobileOpen] = useState(false);
@@ -65,7 +64,7 @@ export default function HeaderOnePage() {
         <div className="navigation_onepage_inr">
           <div className="header_onepage_logo">
             <Link to="/">
-              <img src={logoImg} alt="Logo" />
+              <img src="/images/logo.png" alt="Logo" />
             </Link>
             <button
               className={`nav_hamburger ${mobileOpen ? 'open' : ''}`}

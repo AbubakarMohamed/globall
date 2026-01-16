@@ -4,7 +4,7 @@ import { useRef } from 'react';
 import SectionHeadingOne from '../sectionheading/SectionHeadingOne';
 import { usePreventAriaHiddenFocus } from '../../helpers/usePreventAriaHiddenFocus';
 import testimonialData from '../../data/testimonials/testimonialsone.json';
-import testimonialBgTwoBg from '/images/testimonial2.jpg';
+import testimonialBgTwoBg from '/images/testimonial2.png';
 
 export default function TestimonialsTwo() {
   const slickRef = useRef(null);

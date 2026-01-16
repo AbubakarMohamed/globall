@@ -66,9 +66,9 @@ export default function ServicesSlider() {
                     </h5>
                   </div>
                   <p className="mb-3">{item.shortDesc}</p>
-                  <Link to={`/service/${item.id}`} className="service_btn">
+                  {/* <Link to={`/service/${item.id}`} className="service_btn">
                     {item.btnText} <i className="fa-solid fa-angles-right" aria-hidden="true"></i>
-                  </Link>
+                  </Link> */}
                 </div>
               </div>
             ))}

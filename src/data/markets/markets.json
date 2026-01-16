@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Saudi Arabia",
+    "description": "A high-volume market with demand across multiple sectors. Engagements are driven by clear role definition and coordinated deployment planning."
+  },
+  {
+    "id": 2,
+    "title": "United Arab Emirates",
+    "description": "A mature workforce market with structured demand across construction, hospitality, logistics, and services."
+  },
+  {
+    "id": 3,
+    "title": "Qatar",
+    "description": "A regulated market requiring defined role profiles, workforce readiness, and careful process coordination."
+  },
+  {
+    "id": 4,
+    "title": "Kuwait",
+    "description": "A steady market with ongoing demand across skilled and semi-skilled roles."
+  },
+  {
+    "id": 5,
+    "title": "Bahrain",
+    "description": "A smaller, specialised market requiring targeted sourcing and selective engagement."  
+  }
+]

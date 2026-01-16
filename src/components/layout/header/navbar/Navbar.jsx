@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 import navData from '../../../../data/navbar/navbar.json';
 import MenuItem from './MenuItem';
-import logoImg from '/images/about.jpg';
+import logoImg from '/images/logo.png';
 
 export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);

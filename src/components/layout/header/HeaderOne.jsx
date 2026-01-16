@@ -1,6 +1,4 @@
-import { Link } from 'react-router-dom';
 import Navbar from './navbar/Navbar';
-import SocialLinks from '../../ui/sociallinks/SocialLinks';
 import HeaderInfo from './HeaderOneInfo';
 
 export default function HeaderOne() {
@@ -9,19 +7,14 @@ export default function HeaderOne() {
       <div className="header_top_area">
         <div className="container">
           <div className="row align-items-center">
-            <div className="col-md-6">
+            <div className="col-md-8">
               <HeaderInfo />
             </div>
-            <div className="col-xl-4 col-md-3">
-              <div className="header_social">
-                <SocialLinks />
-              </div>
-            </div>
-            <div className="col-xl-2 col-md-3">
+            <div className="col-md-4">
               <div className="header_button">
-                <Link to="/" className="tem_btn tem_btn_three">
-                  Get a quote
-                </Link>
+                <a href="mailto:info@globalbridge.co.ke" className="tem_btn tem_btn_three">
+                  Get in Touch
+                </a>
               </div>
             </div>
           </div>

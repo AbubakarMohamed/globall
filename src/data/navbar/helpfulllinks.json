@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "title": "Why choose us",
-    "link": "/"
+    "title": "Principles",
+    "link": "#principles"
   },
   {
     "id": 2,
-    "title": "Our service",
-    "link": "/"
+    "title": "Service",
+    "link": "#services"
   },
   {
     "id": 3,
     "title": "About us",
-    "link": "/about"
+    "link": "#about"
   }
 ]

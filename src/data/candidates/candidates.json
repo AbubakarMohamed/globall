@@ -1,0 +1,28 @@
+{
+  "heading": "Candidate Engagement",
+  "intro": "Global Bridge engages individuals seeking overseas employment through structured and documented processes aligned to employer demand.",
+  "subIntro": "Candidate engagement begins only where roles, requirements, and deployment parameters have been defined by employers and partners.",
+  "expectations": [
+    {
+      "id": 1,
+      "title": "Clear Role Requirements",
+      "description": "Clear role requirements and eligibility criteria are provided upfront."
+    },
+    {
+      "id": 2,
+      "title": "Rigorous Screening",
+      "description": "Screening is conducted based on employer needs and candidate suitability."
+    },
+    {
+      "id": 3,
+      "title": "Documented Processes",
+      "description": "Documented processes are followed step by step for transparency and consistency."
+    },
+    {
+      "id": 4,
+      "title": "Consistent Communication",
+      "description": "Communication on progress is provided as processes move forward."
+    }
+  ],
+  "cta": "Candidates who meet requirements and are prepared to follow defined procedures are welcome to contact us for guidance on available opportunities."
+}

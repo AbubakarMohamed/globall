@@ -3,7 +3,7 @@
     "id": 1,
     "title": "<span>Structured Workforce</span> <br> <span class='highlight'>Solutions for the Gulf</span>",
     "description": "Global Bridge Consultancy Ltd delivers organized, transparent, and scalable workforce solutions for employers and talent seeking opportunities across the Gulf region.",
-    "image": "/images/slider1.jpg",
+    "image": "/images/slider1.png",
     "buttonText": "Explore Solutions",
     "buttonLink": "/"
   },
@@ -11,7 +11,7 @@
     "id": 2,
     "title": "<span>International Workforce</span> <br> <span class='highlight'>Mobility Excellence</span>",
     "description": "We provide coordinated deployment solutions and international placement support ensuring clarity and seamless execution across all Gulf markets.",
-    "image": "/images/slider2.jpg",
+    "image": "/images/slider2.png",
     "buttonText": "Learn More",
     "buttonLink": "/"
   }

@@ -4,7 +4,7 @@ import { useRef } from 'react';
 import SectionHeadingOne from '../sectionheading/SectionHeadingOne';
 import { usePreventAriaHiddenFocus } from '../../helpers/usePreventAriaHiddenFocus';
 import testimonialData from '../../data/testimonials/testimonialsone.json';
-import testimonialBg from '/images/testimonial.jpg';
+import testimonialBg from '/images/testimonial.png';
 import TestimonialsRating from './TestimonialsRating';
 
 export default function TestimonialsOne() {

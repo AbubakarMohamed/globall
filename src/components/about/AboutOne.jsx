@@ -1,7 +1,6 @@
-import SectionHeadingOne from "../sectionheading/SectionHeadingOne"
-import aboutListData from "../../data/about/aboutone.json"
-
-import aboutThumb from "/images/about.jpg"
+import SectionHeadingOne from "../sectionheading/SectionHeadingOne";
+import aboutListData from "../../data/about/aboutone.json";
+import aboutThumb from "/images/about.png";
 
 export default function AboutOne() {
   return (
@@ -15,6 +14,7 @@ export default function AboutOne() {
                 headingtext="Global Bridge Consultancy Ltd is a professional consultancy specialising in international talent sourcing and global workforce mobility. Based in Mombasa, Kenya, we work with international employers, deployment partners, and individuals seeking overseas employment to support structured and practical workforce engagement across the Gulf region."
                 align="left"
               />
+
               <div className="row">
                 {aboutListData?.map((item) => (
                   <div key={item.id ?? item.title} className="col-sm-6">
@@ -35,8 +35,18 @@ export default function AboutOne() {
                 ))}
               </div>
             </div>
-            <div className="col-lg-6">
-              <div className="about_thumb">
+
+            <div className="col-lg-6 d-flex flex-column">
+              {/* Adjust this margin to match the top offset of the paragraph on the left */}
+              <div className="mt-4"> {/* ← This moves the mission down */}
+                <h4 className="mb-2 font-semibold">Our Mission</h4>
+                <p>
+                  To support international workforce mobility through organised talent sourcing and coordinated
+                  deployment solutions that serve the interests of employers, partners, and candidates.
+                </p>
+              </div>
+
+              <div className="about_thumb mt-auto">
                 <img src={aboutThumb || "/placeholder.svg"} alt="About Global Bridge" loading="lazy" />
               </div>
             </div>
@@ -44,5 +54,5 @@ export default function AboutOne() {
         </div>
       </section>
     </>
-  )
+  );
 }

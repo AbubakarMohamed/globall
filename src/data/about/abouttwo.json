@@ -1,19 +1,19 @@
 [
   {
     "id": 1,
-    "thumb": "/images/service_1.jpg",
+    "thumb": "/images/service_1.png",
     "title": "business growth",
     "text": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas efficitur"
   },
   {
     "id": 2,
-    "thumb": "/images/service_2.jpg",
+    "thumb": "/images/service_2.png",
     "title": "advanced analtic",
     "text": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas efficitur"
   },
   {
     "id": 3,
-    "thumb": "/images/service_3.jpg",
+    "thumb": "/images/service_3.png",
     "title": "customer insights",
     "text": "Lorem ipsum dolor sit amet consectetur adipiscing elited hasellus id lectus quis dui euismod con placerat ssa nec elit egestas efficitur"
   }
