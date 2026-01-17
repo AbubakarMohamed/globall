@@ -1,8 +1,6 @@
 import { useState } from 'react';
 
 export default function ContactForm({
-  actionUrl = '/api/contact',
-  method = 'POST',
   buttonText = 'Send Message',
   onSuccess,
   onError,
@@ -22,15 +20,40 @@ export default function ContactForm({
 
   async function handleSubmit(e) {
     e.preventDefault();
+    
     try {
       setStatus({ type: 'loading', message: 'Sending...' });
-      const res = await fetch(actionUrl, {
-        method,
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(form),
+      
+      // Using EmailJS - Simple, no backend needed
+      // Sign up at https://www.emailjs.com/ (free tier: 200 emails/month)
+      
+      const serviceID = 'service_g8e9gwd'; // Get from EmailJS dashboard
+      const templateID = 'template_eflivbo'; // Get from EmailJS dashboard
+      const publicKey = 'lxtdsXbYVncgOt1lb'; // Get from EmailJS dashboard
+      
+      const templateParams = {
+        to_email: 'abdillahabubakar4@gmail.com',
+        from_name: form.name,
+        from_email: form.email,
+        subject: form.enquiryType,
+        message: form.message,
+        reply_to: form.email
+      };
+
+      const response = await fetch('https://api.emailjs.com/api/v1.0/email/send', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({
+          service_id: serviceID,
+          template_id: templateID,
+          user_id: publicKey,
+          template_params: templateParams
+        })
       });
 
-      if (!res.ok) throw new Error(`Request failed: ${res.status}`);
+      if (!response.ok) throw new Error('Failed to send email');
 
       setStatus({ type: 'success', message: 'Thank you for your enquiry. We will respond shortly.' });
       setForm({ name: '', email: '', enquiryType: '', message: '' });
@@ -91,10 +114,10 @@ export default function ContactForm({
               required
             >
               <option value="">Select enquiry type</option>
-              <option value="employer">Employer / Workforce Solutions</option>
-              <option value="partner">Partnership Opportunities</option>
-              <option value="candidate">Candidate / Employment Enquiry</option>
-              <option value="general">General Enquiry</option>
+              <option value="Employer / Workforce Solutions">Employer / Workforce Solutions</option>
+              <option value="Partnership Opportunities">Partnership Opportunities</option>
+              <option value="Candidate / Employment Enquiry">Candidate / Employment Enquiry</option>
+              <option value="General Enquiry">General Enquiry</option>
             </select>
           </div>
 

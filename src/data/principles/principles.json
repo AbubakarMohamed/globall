@@ -2,25 +2,25 @@
   {
     "id": 1,
     "title": "Structured Execution",
-    "description": "We operate through defined workflows that cover employer alignment, talent sourcing, documentation coordination, and deployment readiness. Each engagement follows an agreed process with clear ownership and measurable checkpoints.",
-    "icon": "fa-solid fa-list-check"
+    "description": "We operate through defined workflows that cover employer alignment, talent sourcing, documentation coordination, and deployment readiness. Each engagement follows an agreed process with clear ownership and measurable checkpoints."
+    
   },
   {
     "id": 2,
     "title": "Demand-Led Engagement",
-    "description": "We do not source or mobilise talent speculatively. All sourcing activities are driven by confirmed employer demand, agreed role profiles, and realistic deployment timelines.",
-    "icon": "fa-solid fa-chart-bar"
+    "description": "We do not source or mobilise talent speculatively. All sourcing activities are driven by confirmed employer demand, agreed role profiles, and realistic deployment timelines."
+    
   },
   {
     "id": 3,
     "title": "Operational Transparency",
-    "description": "We maintain open communication throughout the engagement. Expectations are set clearly, and updates are provided consistently to avoid uncertainty and misalignment.",
-    "icon": "fa-solid fa-eye"
+    "description": "We maintain open communication throughout the engagement. Expectations are set clearly, and updates are provided consistently to avoid uncertainty and misalignment."
+  
   },
   {
     "id": 4,
     "title": "Partnership Selectivity",
-    "description": "We are deliberate about the partners we work with. Long-term reliability, operational capability, and shared standards matter more than short-term opportunity.",
-    "icon": "fa-solid fa-handshake-angle"
+    "description": "We are deliberate about the partners we work with. Long-term reliability, operational capability, and shared standards matter more than short-term opportunity."
+    
   }
 ]

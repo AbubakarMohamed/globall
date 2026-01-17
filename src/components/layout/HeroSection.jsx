@@ -224,48 +224,6 @@ export default function HeroSection() {
         </div>
       </section>
 
-      {/* Trust Signal Strip */}
-      <section className="trust_signal_strip" aria-label="Trust and credibility indicators">
-        <div className="container">
-          <div className="row">
-            <div className="col-12">
-              <div className={`trust_signals_wrapper ${isVisible ? 'fade-in-up delay-3' : ''}`}>
-                <div className="trust_signal">
-                  <div className="trust_icon">📍</div>
-                  <div className="trust_content">
-                    <span className="trust_name">Based in Kenya</span>
-                    <span className="trust_caption">Operating Across the Gulf</span>
-                  </div>
-                </div>
-
-                <div className="trust_signal">
-                  <div className="trust_icon">🌍</div>
-                  <div className="trust_content">
-                    <span className="trust_name">Regional Coverage</span>
-                    <span className="trust_caption">UAE • Saudi Arabia • Qatar • Kuwait • Bahrain</span>
-                  </div>
-                </div>
-
-                <div className="trust_signal">
-                  <div className="trust_icon">🔁</div>
-                  <div className="trust_content">
-                    <span className="trust_name">Structured Engagements</span>
-                    <span className="trust_caption">Repeatable Workforce Solutions</span>
-                  </div>
-                </div>
-
-                <div className="trust_signal">
-                  <div className="trust_icon">📄</div>
-                  <div className="trust_content">
-                    <span className="trust_name">Process-Driven</span>
-                    <span className="trust_caption">Documented Execution</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
 
       <style jsx>{`
         /* Hero Section Styles */

@@ -10,40 +10,40 @@ export default function Markets() {
       country: "Saudi Arabia",
       flag: "🇸🇦",
       summary: "A high-volume market with demand across multiple sectors",
-      description: "Engagements are driven by clear role definition and coordinated deployment planning.",
-      icon: "fas fa-building"
+      description: "Engagements are driven by clear role definition and coordinated deployment planning."
+     
     },
     {
       id: 2,
       country: "United Arab Emirates",
       flag: "🇦🇪",
       summary: "A mature workforce market with structured demand.",
-      description: "Structured demand across construction, hospitality, logistics, and services.",
-      icon: "fas fa-city"
+      description: "Structured demand across construction, hospitality, logistics, and services."
+      
     },
     {
       id: 3,
       country: "Qatar",
       flag: "🇶🇦",
       summary: "A regulated market requiring careful coordination.",
-      description: "Requires defined role profiles, workforce readiness, and careful process coordination.",
-      icon: "fas fa-landmark"
+      description: "Requires defined role profiles, workforce readiness, and careful process coordination."
+      
     },
     {
       id: 4,
       country: "Kuwait",
       flag: "🇰🇼",
       summary: "A steady market with ongoing demand.",
-      description: "Ongoing demand across skilled and semi-skilled roles. ",
-      icon: "fas fa-globe-asia"
+      description: "Ongoing demand across skilled and semi-skilled roles. "
+      
     },
     {
       id: 5,
       country: "Bahrain",
       flag: "🇧🇭",
       summary: "A specialised market requiring targeted sourcing.",
-      description: "Requires targeted sourcing and selective engagement.",
-      icon: "fas fa-map-marked-alt"
+      description: "Requires targeted sourcing and selective engagement."
+      
     }
   ];
 
@@ -133,9 +133,7 @@ export default function Markets() {
                   }}
                 >
                   <div className="market_content_inner">
-                    <div className="market_icon_wrapper">
-                      <i className={market.icon} aria-hidden="true"></i>
-                    </div>
+                    
                     <p className="market_description">{market.description}</p>
                   </div>
                 </div>
